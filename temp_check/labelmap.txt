@@ -1,0 +1,6 @@
+# label:color_rgb:parts:actions
+road:128,64,128::
+sidewalk:244,35,232::
+building:70,70,70::
+vegetation:107,142,35::
+sky:70,130,180::
